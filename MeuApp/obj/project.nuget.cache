@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eaCHSxH8ydk=",
+  "dgSpecHash": "duQbmT7KQYA=",
   "success": true,
-  "projectFilePath": "/home/sanderhus/projects/CsharpBase/MeuApp/MeuApp.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\sanderhus\\projects\\CsharpBase\\MeuApp\\MeuApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
