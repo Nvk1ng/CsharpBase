@@ -1,0 +1,15 @@
+/home/sanderhus/projects/CsharpBase/MeuApp/bin/Debug/net9.0/MeuApp
+/home/sanderhus/projects/CsharpBase/MeuApp/bin/Debug/net9.0/MeuApp.deps.json
+/home/sanderhus/projects/CsharpBase/MeuApp/bin/Debug/net9.0/MeuApp.runtimeconfig.json
+/home/sanderhus/projects/CsharpBase/MeuApp/bin/Debug/net9.0/MeuApp.dll
+/home/sanderhus/projects/CsharpBase/MeuApp/bin/Debug/net9.0/MeuApp.pdb
+/home/sanderhus/projects/CsharpBase/MeuApp/obj/Debug/net9.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sanderhus/projects/CsharpBase/MeuApp/obj/Debug/net9.0/MeuApp.AssemblyInfoInputs.cache
+/home/sanderhus/projects/CsharpBase/MeuApp/obj/Debug/net9.0/MeuApp.AssemblyInfo.cs
+/home/sanderhus/projects/CsharpBase/MeuApp/obj/Debug/net9.0/MeuApp.csproj.CoreCompileInputs.cache
+/home/sanderhus/projects/CsharpBase/MeuApp/obj/Debug/net9.0/MeuApp.sourcelink.json
+/home/sanderhus/projects/CsharpBase/MeuApp/obj/Debug/net9.0/MeuApp.dll
+/home/sanderhus/projects/CsharpBase/MeuApp/obj/Debug/net9.0/refint/MeuApp.dll
+/home/sanderhus/projects/CsharpBase/MeuApp/obj/Debug/net9.0/MeuApp.pdb
+/home/sanderhus/projects/CsharpBase/MeuApp/obj/Debug/net9.0/MeuApp.genruntimeconfig.cache
+/home/sanderhus/projects/CsharpBase/MeuApp/obj/Debug/net9.0/ref/MeuApp.dll
