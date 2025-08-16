@@ -10,17 +10,15 @@ namespace MeuApp
             // Multiplicaçao e divisão são executadas primeiros se quiser
             // mudar a order, usar parenteses
 
-            //soma
-            1 + 1;
+            int soma = 25 + 22; // 47
+            int subtracao = 25 - 22; // 3
+            int multiplicacao = 25 * 22; // 550
+            int divisao = 25 / 22; // 4 - foi arredondado
 
-            // subtraçào
-            2 - 1;
+            int x = 2 + 2 * 2; // 6
+            int y = 2 + (2 * 2); // 6 - Mesmo do anterios
+            int z = (2 + 2) * 2; // 8 - Executou a soma primeiro
 
-            //multiplicação
-            2 * 2;
-
-            //Divisão
-            4 / 2;
         }
     }
 }
